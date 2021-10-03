@@ -1,0 +1,113 @@
+@media(max-width: 1200px){
+
+}
+
+@media(max-width:991px){
+
+    .cal {
+        display: none;
+    }
+    .navbar-brand img{
+        display: inherit;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        text-align: center;
+    }
+    .text_controler h3{
+        margin: auto;
+    }
+    .text_controler h1{
+        margin: 16px 0px;
+    }
+    .price{
+        display: none;
+    }
+    .right{
+        width: 300px;
+        margin: auto;
+    }
+    .icon p{
+        font-size: 13px;
+    }
+    .text_controler h3{
+        font-size: 10px;
+        width: 318px;
+    }
+    .text_controler h2{
+        font-size: 58px;
+    }
+    .text_controler h1{
+        font-size: 69px;
+    }
+}
+@media(max-width:767px){
+    .navbar-brand img{
+        width: 50%;
+    }
+    .text_controler h1{
+        font-size: 50px;
+        text-align: center;
+    }
+    .text_controler h2{
+        font-size: 46px;
+        text-align: center;
+    }
+    .text_controler h3{
+        border: 3px dashed;
+        font-size: 12px;
+        width: 368px;
+    }
+}
+@media(max-width:575px){
+
+    .text_controler h3{
+        font-size: 8px;
+        width: 273px;
+    }
+    .choose h4{
+        width: 165px;
+        font-size: 11px;
+    }
+    .choose p{
+        font-size: 13px;
+    }
+}
+@media(max-width:320px){
+    .left p{
+        font-size: 10px;
+    }
+    .photo_contro p{
+        font-size: 13px;
+    }
+    .Discover p{
+        font-size: 12px;
+    }
+    .Discover h1{
+        font-size: 26px;
+    }
+    .Discover h4{
+        font-size: 17px;
+    }
+    .demo h3{
+        font-size: 20px;
+    }
+    .demo{
+        font-size: 32px;
+    }
+    .details h3{
+        font-size: 20px;
+    }
+    .choose p{
+        font-size: 15px;
+    }
+    .order_btn{
+        font-size: 14px;
+    }
+    .img_del{
+        padding: 18px 23px;
+    }
+    .img_1{
+        padding: 12px 13px;
+    }
+
+}
